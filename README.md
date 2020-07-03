@@ -1,2 +1,2 @@
 # Online-Quiz-System
-php/mySQL
+php/JavaScript/mySQL
