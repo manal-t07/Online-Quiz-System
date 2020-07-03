@@ -99,7 +99,7 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
 <div class="row">
 <div class="col-md-1"></div>
 <div class="col-md-10">
-<a href="mailto:manaltalat2000@gmail.com" style="color:#000000">manaltalat2000@gmail.com</a><br /><br />
+<a href="mailto:manal.zee71@gmail.com" style="color:#000000">manal.zee71@gmail.com</a><br /><br />
 </div><div class="col-md-1"></div></div>
 <p>Or you can directly submit your feedback by filling the enteries below:-</p>
 <form role="form"  method="post" action="feed.php?q=feedback.php">
@@ -167,9 +167,9 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
 		 <img src="image/pic.jpg" width=100 height=100 alt="" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Manal Talat, Bazila Afridi</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+92 335 5547636</h4>
-		<h4 style="font-family:'typo' ">manaltalat2000@gmail.com</h4>
+		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Manal Talat</a>
+		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1"></h4>
+		<h4 style="font-family:'typo' ">manal.zee71@gmail.com</h4>
 		<h4 style="font-family:'typo' ">Bahria University, Islamabad</h4></div></div>
 		</p>
       </div>
